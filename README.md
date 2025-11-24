@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Catarina
 
-<!--
-**catarinarmendes/catarinarmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student seeking my first professional opportunity in the data field.
 
-Here are some ideas to get you started:
+Passionate about turning data into insights and naturally curious — I never outgrew the “why?” phase from childhood, which has become one of my greatest strengths in analytical thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Areas of Interest  
+- Data Analysis  
+- Marketing Analytics  
+- Machine Learning
+
+## 🧰 Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Databricks](https://img.shields.io/badge/Databricks-FC6F26?style=for-the-badge&logo=databricks&logoColor=white)  
+
+## 🚀 About this Repository  
+My profile is still under construction — new projects will be added soon.
+
+## 📊 GitHub Stats  
+![Catarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=catarinarmendes&show_icons=true&theme=tokyonight&count_private=true)
+
+## 📬 Contact  
+All contact information is available on my GitHub profile.
