@@ -18,8 +18,5 @@ Passionate about turning data into insights and naturally curious — I never ou
 ## 🚀 About this Repository  
 My profile is still under construction — new projects will be added soon.
 
-## 📊 GitHub Stats  
-![Catarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=catarinarmendes&show_icons=true&theme=tokyonight&count_private=true)
-
 ## 📬 Contact  
 All contact information is available on my GitHub profile.
